@@ -1,0 +1,11 @@
+/target
+/build
+/backend_rust/target
+/vscode
+/lic
+/.vscode
+/.cache
+/build-qt-Desktop_Qt_5_15_2_MinGW_32_bit-Release
+/CMakeLists.txt.user
+*.log
+Cargo.lock

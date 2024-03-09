@@ -1,0 +1,8 @@
+[package]
+name = "example_sw_dp_mke"
+version = "2.1.0"
+edition = "2021"
+
+[dependencies.probe-rs]
+git = "https://github.com/Kuraga13/probe-rs-fork"
+rev = "7662620" #latest commit  Sep 21, 2023
