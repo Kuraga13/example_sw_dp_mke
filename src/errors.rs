@@ -4,8 +4,6 @@
 use std::fmt;
 use std::io;
 
-//#[allow(non_camel_case_types)]
-//pub type USBDM_Result = Result<USBDM_RC_OK, USBDMerror>;
 
 
 #[allow(non_camel_case_types)]
